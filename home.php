@@ -23,7 +23,7 @@
 			<td width="190" bgcolor="#FFFF66"><ul>
 				<li><a href="home.php">หน้าแรก</li>
 				<li><a href="room.php">ห้องพัก&ราคา</li>
-				<li><a herf="guest.php">สมุดเยี่ยม</li>
+				<li><a herf="guest.php">สมุดเยี่ยมมมมมมมมมมมมมมมมมมมมมม</li>
 				<li><a href="contact.php">ติดต่ออออออ</li>
 				</ul><p>
 				<?php include "login_form.php";?>
@@ -32,3 +32,4 @@
 	</table>
 
 <body>
+
